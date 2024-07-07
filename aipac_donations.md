@@ -17,7 +17,7 @@ The two datasets I used for the analysis can be downloaded here:
 [Link](https://www.fec.gov/data/receipts/?data_type=processed&contributor_name=C00797670&two_year_transaction_period=2024)
 [Link](https://www.fec.gov/data/receipts/?data_type=processed&committee_id=C00859041&two_year_transaction_period=2024)
 
-##What I learned
+## What I learned
 The main skill I got to practice in this project was analyzing data in pandas. The FEC data was challenging to sort, filter and organize because there was a lot of information in the datasets and some duplicates that I had to methodologically remove from the dataset. I learned how to create a sum of all the different receipts of donations for each candidate and I also learned how to filter data from a specific date. I also got to practice making basic graphs in Data Wrapper and editing them in Adobe Illustrator to make them clear to read. 
 
 ## Things I would have liked to do
